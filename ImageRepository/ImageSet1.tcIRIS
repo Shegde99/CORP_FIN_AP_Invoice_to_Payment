@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{F602C3C1-A982-4674-BA8B-9DB4B2D6F6B3}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="ImageSet1" />
+	<testData />
+	<data>
+		<item caption="Alert" moniker="{F0F2E70D-EA7D-407F-9596-4CE68BD65610}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Alert.png" initialHash="00000000" selectionLeft="628" selectionTop="91" selectionWidth="677" selectionHeight="274" initialLeft="628" initialTop="91" initialWidth="677" initialHeight="274" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>

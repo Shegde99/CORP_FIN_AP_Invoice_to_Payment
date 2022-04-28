@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{DE81C93D-7397-495C-A0CB-557665605550}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44631.6263194444" objectName="Aliases.browser.pageHome.formDefaultformname.textnodeTreemenu1.textnodeDbsApInvoicesUserUs.panelDbsApInvoicesUserUs" objectLeft="80" objectTop="655" objectRight="354" objectBottom="693" clickPointX="272" clickPointY="671" imageFileName="tcvi21364265121521.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44631.626412037" objectName="Aliases.browser.pageHome.formDefaultformname.textnodeTreemenu1.textnodeInvoices.panelInvoices" objectLeft="113" objectTop="805" objectRight="329" objectBottom="843" clickPointX="206" clickPointY="818" imageFileName="tcvi21371671121523.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44631.6264583333" objectName="Aliases.browser.pageHome.formDefaultformname.textnodeTreemenu1.textnodeInvoiceEntry.panelInvoiceEntry" objectLeft="146" objectTop="880" objectRight="313" objectBottom="918" clickPointX="253" clickPointY="894" imageFileName="tcvi21375765121524.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44631.6265277778" objectName="Aliases.browser.pageHome.formDefaultformname.textnodeTreemenu1.textnodeInvoiceEntry2.panelInvoiceBatches" objectLeft="179" objectTop="917" objectRight="354" objectBottom="955" clickPointX="280" clickPointY="935" imageFileName="tcvi21381937121526.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

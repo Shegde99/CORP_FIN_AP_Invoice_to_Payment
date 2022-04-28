@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{CDF8C89D-0DA7-41D9-990C-86BE17867346}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="14" kind="0" dateTime="44642.3120023148" objectName="Aliases.jp2launcher.Frame.extendedframeFindRequests.buttonSubmitANewRequestAltN" objectLeft="107" objectTop="552" objectRight="265" objectBottom="581" clickPointX="222" clickPointY="569" imageFileName="tcvi43991021893600.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="41" kind="0" dateTime="44642.3734259259" objectName="Aliases.jp2launcher.Frame.extendedframeRequests.toolbar" objectLeft="712" objectTop="90" objectRight="760" objectBottom="106" clickPointX="752" clickPointY="99" imageFileName="tcvi44521678172960.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

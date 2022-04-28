@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{A7582F79-FD6A-43F7-9EC5-5A7B94FF57B0}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="44634.3334953704" objectName="Aliases.jp2launcher.Frame.menubar.menuFileMnemonicF" objectLeft="12" objectTop="35" objectRight="42" objectBottom="65" clickPointX="29" clickPointY="69" imageFileName="tcvi255262703121321.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44634.3336111111" objectName="Aliases.jp2launcher.Frame.popupmenu.menuitemExitOracleApplicationsMn" objectLeft="15" objectTop="325" objectRight="176" objectBottom="345" clickPointX="90" clickPointY="495" imageFileName="tcvi255272343121327.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44637.2136111111" objectName="Aliases.jp2launcher.Frame.formbuttonOkAltO" objectLeft="672" objectTop="409" objectRight="727" objectBottom="437" clickPointX="699" clickPointY="424" imageFileName="tcvi504102671121161.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
